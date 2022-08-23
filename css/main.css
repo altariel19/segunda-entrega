@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css2?family=Rampart+One&display=swap);
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+/*General*/
+.menu{
+    background: #51d1f6;
+}
+.h1{
+    text-align: center;
+    margin: 2rem;
+    font-family: 'Rampart One';
+}
+.p{
+    margin: 2rem;
+}
+
+/*servicio*/
+
+.service{
+    margin-bottom: 10rem;
+}
+
+/*Html Nootros*/
+.h1-nosotros{
+    text-align: center;
+    margin: 1rem;
+    font-family: 'Rampart One';
+  
+}
+.p-nosotros{
+    font-size: 1.2rem;
+}
+.h2-nosotros{
+    font-style: oblique;
+    text-decoration: underline;
+
+}
+.div-ubi{
+    display: flex;
+    justify-content: center;
+   
+}
+.ubi{
+    margin: 1rem;
+    
+}
+
+.consul{
+    margin: 3rem;
+
+}
+
+
